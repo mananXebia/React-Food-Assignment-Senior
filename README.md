@@ -1,4 +1,4 @@
-- Create a food delivery application to display all restaurants on load.
+# Create a food delivery application to display all restaurants on load.
 
 - Create a Nav Bar with Home and Instamart tab with your name on the nav bar.
 
