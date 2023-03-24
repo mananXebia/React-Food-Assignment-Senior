@@ -24,3 +24,4 @@ Bonus points
 
 - Create a utils function for online/offline functionality for the user. Display a tick and cross icon for online and offlie resp.
 - Write test cases for each component.
+- Beautify the code (Good if you use any utility framework like Tailwind Css or any other)
