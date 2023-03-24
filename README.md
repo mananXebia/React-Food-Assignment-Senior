@@ -21,4 +21,6 @@
 - display your name on the routed screen stored in context API or Redux store
 
 Bonus points
-Create a utils function for online/offline functionality for the user. Display a tick and cross icon for online and offlie resp.
+
+- Create a utils function for online/offline functionality for the user. Display a tick and cross icon for online and offlie resp.
+- Write test cases for each component.
