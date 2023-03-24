@@ -1,6 +1,6 @@
 - Create a food delivery application to display all restaurants on load.
 
-- Create a Nav Bar with Home and Instamart tab with your name.
+- Create a Nav Bar with Home and Instamart tab with your name on the nav bar.
 
 - Make the Instamart component lazy load.
 
@@ -12,13 +12,13 @@
 
 - While fetching the data from API in the home screen, display a Shimmer/Loader until data is displayed.
 
-- Create a Search and display the result on search.
+- Create a Search for the restaurants in the home screen and display the result on search.
 
 - Optimise the search if using onChange for search
 
 - On Click of each restaurant create a route and display the id of the restaurant on the routed screen.
 
-- display your name on the routed screen stored in context API or Redux store
+- display your name which is present in the nav bar, also on the routed screen which should be stored in context API or Redux store
 
 Bonus points
 
